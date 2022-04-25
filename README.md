@@ -15,7 +15,16 @@ Then use `pip` (or `pip3`, if there is a conflict with Python2) to install depen
 ```
 pip install -r requirements.txt
 ```
+### How to use
+Use command line to run this script. Example:
 
+```
+python main.py https://www.google.com/
+```
+Result:
+```commandline
+Битлинк: https://bit.ly/3xJJCvf
+```
 ### Project Goals
 
 The code is written for educational purposes on online-course for web-developers [dvmn.org](https://dvmn.org/).
